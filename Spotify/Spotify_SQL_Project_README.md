@@ -137,5 +137,5 @@ Tableau dashboard to visualize:
 
 **Kaushlendra**\
 MS in Business Analytics\
-Highway Design Engineer → Data Analytics Transition
+Highway Design Engineer → Data Analytics Transition\
 www.linkedin.com/in/kaushlendra-kumar-verma  
